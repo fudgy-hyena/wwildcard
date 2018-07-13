@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: keepin you posted
+author_profile: true
 ---
 
 {% for post in site.posts %}
